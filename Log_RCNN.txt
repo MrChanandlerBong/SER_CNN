@@ -1,0 +1,21 @@
+Test Accuracy: 0.8212
+Macro F1 Score: 0.8129
+Mean Prediction Entropy: 0.2631
+
+Confusion Matrix:
+[[ 50  15   6   6   0   0   0   0]
+ [  3 140   0   9   0   0   1   0]
+ [  9   0 111   3   5  16   7   2]
+ [  6  13   1 117   0  13   4   0]
+ [  1   0   6   4 129   1  12   1]
+ [  0   0   5  15   0 131   3   0]
+ [  1   2   0  11   3   4 132   0]
+ [  0   0   4   2   2   6   4 136]]
+
+Entropy : 0.2631
+Male Accuracy: 0.8165
+Female Accuracy: 0.8254
+Accuracy Gap Between Male and Female : 0.0089
+
+Male Macro F1: 0.8076
+Female Macro F1: 0.8154
