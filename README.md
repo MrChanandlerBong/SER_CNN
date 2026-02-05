@@ -54,6 +54,8 @@ Models Implemented
       . CNN used as a feature extractor
       . LSTM models temporal evolution of speech
       . Significantly outperforms CNN-based models
+5 . RCNN + BiLSTM:
+      . Its LSTM but better
 
 Evaluation Metrics
   . Accuracy
